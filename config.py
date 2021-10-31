@@ -1,0 +1,2 @@
+REPORTING_CHAT_ID = 0
+TOKEN = ''
